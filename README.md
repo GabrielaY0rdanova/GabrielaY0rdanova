@@ -40,9 +40,9 @@
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Yordanova-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/)
 ## 🎯 Fun & Personal
-📚 Avid reader—always exploring new books
-🧩 Puzzle lover—enjoy solving challenges, brain teasers, and jigsaw puzzles
-💡 Always curious—learning something new every day
+- 📚 Avid reader—always exploring new books
+- 🧩 Puzzle lover—enjoy solving challenges, brain teasers, and jigsaw puzzles
+- 💡 Always curious—learning something new every day
 
 ---
 *"Every expert was once a beginner."* 🌱
