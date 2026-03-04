@@ -8,23 +8,31 @@
 - 💡 I believe that domain knowledge + data skills is a powerful combination
 ## 🛠️ Skills & Tools
 **Languages & Querying**
+
 ![SQL](https://img.shields.io/badge/SQL-Server-blue?logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-Advanced-blue?logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+
 **Databases & Database Tools**
+
 ![SSMS](https://img.shields.io/badge/SSMS-SQL%20Server%20Management%20Studio-red?logo=microsoftsqlserver&logoColor=white)
 ![Access](https://img.shields.io/badge/Microsoft%20Access-darkred?logo=microsoftaccess&logoColor=white)
+
 **Data Visualization**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Pivot%20Tables-green?logo=microsoftexcel&logoColor=white)
+
 **Tools & Environments**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-Diagrams-orange?logo=diagrams.net&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white)
+
 ## 📂 Current Projects & Portfolio
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -38,7 +46,10 @@
 - 🧹 **Data cleaning & exploration** with SQL
 - 📋 **Excel** — Pivot Tables and advanced formulas
 ## 🤝 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Yordanova-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Page-blueviolet?logo=github&logoColor=white)](https://gabrielay0rdanova.github.io/)
+
 ## 🎯 Fun & Personal
 - 📚 Avid reader—always exploring new books
 - 🧩 Puzzle lover—enjoy solving challenges, brain teasers, and jigsaw puzzles
