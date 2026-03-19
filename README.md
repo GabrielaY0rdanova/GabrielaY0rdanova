@@ -46,16 +46,32 @@
 | [🏗️ PharmaMarket_ETL](https://github.com/GabrielaY0rdanova/PharmaMarket_ETL) | Full ETL pipeline extracting, cleaning and loading pharmaceutical data into a structured relational database | SQL Server, T-SQL, BULK INSERT |
 | [🧹 PharmaMarket_Cleaning](https://github.com/GabrielaY0rdanova/PharmaMarket_Cleaning) | Data cleaning and quality validation — encoding artifacts, duplicates, referential integrity | SQL Server, T-SQL, Python, pandas |
 | [🔍 PharmaMarket_EDA](https://github.com/GabrielaY0rdanova/PharmaMarket_EDA) | Structured exploratory data analysis across 21,708 medicines, 240 manufacturers and pricing patterns | PostgreSQL, SQL |
-| [📊 PharmaMarket_Visualization](https://github.com/GabrielaY0rdanova/PharmaMarket_Visualization) | Interactive two-dashboard Tableau Story — market structure, pricing segments and generic competition | Tableau, PostgreSQL |
+| [📈 PharmaMarket_Visualization](https://github.com/GabrielaY0rdanova/PharmaMarket_Visualization) | Interactive two-dashboard Tableau Story — market structure, pricing segments and generic competition | Tableau, PostgreSQL |
 
 ### 🏠 RealEstate Series — In Development
-*From raw scraped data to analytical dashboard*
+*From raw scraped data to analytical dashboard — Python end-to-end*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🕷️ RealEstate_Scraper | *(Coming soon)* | Python |
-| 🔍 RealEstate_Analysis | *(Coming soon)* | SQL, Python |
-| 📊 RealEstate_Dashboard | *(Coming soon)* | Power BI |
+| 🕷️ RealEstate\_Scraper | *(Coming soon)* Web scraper collecting real estate listings — prices, locations, property types and features | Python, BeautifulSoup, Selenium, Pandas |
+| 🧹 RealEstate\_Cleaning | *(Coming soon)* Data cleaning and transformation — missing values, inconsistent formats, outliers | Python, Pandas, NumPy, Regex |
+| 🔍 RealEstate\_Analysis | *(Coming soon)* Exploratory data analysis — price distributions, location trends, property type patterns | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| 📈 RealEstate\_Dashboard | *(Coming soon)* Interactive dashboard presenting key insights — price trends, location breakdowns, market dynamics | Power BI, DAX, Power Query |
+
+### 📊 Excel Analytics Project — Planned
+*End-to-end business analysis project in Excel — from raw data to dashboard*
+
+| Stage | Description | Tools |
+|-------|-------------|-------|
+| 1️⃣ Business Problem | Define analytical questions and success metrics | Excel |
+| 2️⃣ Data Collection | Source and import raw dataset | Excel, Power Query |
+| 3️⃣ Data Cleaning | Handle missing values, inconsistencies and formatting issues | Excel, Power Query |
+| 4️⃣ Data Transformation | Reshape and enrich data for analysis | Excel, Power Query |
+| 5️⃣ Analysis | Pivot tables, formulas and statistical summaries | Excel |
+| 6️⃣ Dashboard Creation | Interactive charts and visual reporting | Excel |
+| 7️⃣ Insights & Recommendations | Business conclusions and actionable recommendations | Excel |
+
+> 🔍 Domain TBD — project in planning stage
 
 ## 🚀 Currently Leveling Up
 - 🏠 **Web scraping** with Python for the RealEstate series
