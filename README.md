@@ -38,25 +38,25 @@
 
 ## 📂 Portfolio
 
-### 💊 PharmaMarket Series — Complete
+### 💊 PharmaMarket Pipeline — Complete
 *End-to-end pipeline from raw CSV files to interactive Tableau dashboard*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🏗️ PharmaMarket_ETL](https://github.com/GabrielaY0rdanova/PharmaMarket_ETL) | Full ETL pipeline extracting, cleaning and loading pharmaceutical data into a structured relational database | SQL Server, T-SQL, BULK INSERT |
-| [🧹 PharmaMarket_Cleaning](https://github.com/GabrielaY0rdanova/PharmaMarket_Cleaning) | Data cleaning and quality validation — encoding artifacts, duplicates, referential integrity | SQL Server, T-SQL, Python, pandas |
-| [🔍 PharmaMarket_EDA](https://github.com/GabrielaY0rdanova/PharmaMarket_EDA) | Structured exploratory data analysis across 21,708 medicines, 240 manufacturers and pricing patterns | PostgreSQL, SQL |
-| [📈 PharmaMarket_Visualization](https://github.com/GabrielaY0rdanova/PharmaMarket_Visualization) | Interactive two-dashboard Tableau Story — market structure, pricing segments and generic competition | Tableau, PostgreSQL |
+| [🏗️ ETL](https://github.com/GabrielaY0rdanova/PharmaMarket_ETL) | Full ETL pipeline extracting, cleaning and loading pharmaceutical data into a structured relational database | SQL Server, T-SQL, BULK INSERT |
+| [🧹 Cleaning](https://github.com/GabrielaY0rdanova/PharmaMarket_Cleaning) | Data cleaning and quality validation — encoding artifacts, duplicates, referential integrity | SQL Server, T-SQL, Python, pandas |
+| [🔍 EDA](https://github.com/GabrielaY0rdanova/PharmaMarket_EDA) | Structured exploratory data analysis across 21,708 medicines, 240 manufacturers and pricing patterns | PostgreSQL, SQL |
+| [📈 Visualization](https://github.com/GabrielaY0rdanova/PharmaMarket_Visualization) | Interactive two-dashboard Tableau Story — market structure, pricing segments and generic competition | Tableau, PostgreSQL |
 
-### 🏠 RealEstate Series — In Development
+### 🏠 Bulgaria Real Estate Pipeline — In Development
 *From raw scraped data to analytical dashboard — Python end-to-end*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🕷️ RealEstate\_Scraper | *(Coming soon)* Web scraper collecting real estate listings — prices, locations, property types and features | Python, BeautifulSoup, Selenium, Pandas |
-| 🧹 RealEstate\_Cleaning | *(Coming soon)* Data cleaning and transformation — missing values, inconsistent formats, outliers | Python, Pandas, NumPy, Regex |
-| 🔍 RealEstate\_Analysis | *(Coming soon)* Exploratory data analysis — price distributions, location trends, property type patterns | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| 📈 RealEstate\_Dashboard | *(Coming soon)* Interactive dashboard presenting key insights — price trends, location breakdowns, market dynamics | Power BI, DAX, Power Query |
+| [🏗️ Scraper](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-scraper) | Modular web scraper collecting 199,496 real estate listings across 54 Bulgarian regions — prices, locations, property types and features | Python, BeautifulSoup, requests |
+| 🧹 Cleaning | *(In progress)* Data cleaning and normalisation — deduplication, field parsing, PostgreSQL load | Python, pandas, PostgreSQL |
+| 🔍 Analysis | *(Coming soon)* Exploratory data analysis — price distributions, location trends, property type patterns | Python, pandas, Matplotlib, Seaborn |
+| 📈 Visualization | *(Coming soon)* Interactive dashboard presenting key insights — price trends, location breakdowns, market dynamics | Power BI, DAX, Power Query |
 
 ### 📊 Excel Analytics Project — Planned
 *End-to-end business analysis project in Excel — from raw data to dashboard*
@@ -74,7 +74,7 @@
 > 🔍 Domain TBD — project in planning stage
 
 ## 🚀 Currently Leveling Up
-- 🏠 **Web scraping** with Python for the RealEstate series
+- 🧹 **Data cleaning** with Python and PostgreSQL for the Bulgaria Real Estate pipeline
 - 📊 **Power BI** — deepening dashboard and reporting skills
 - 🐍 **Python** for data analysis and automation
 
