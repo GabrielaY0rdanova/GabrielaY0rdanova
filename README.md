@@ -58,6 +58,10 @@
 | 🔍 Analysis | *(Coming soon)* Exploratory data analysis — price distributions, location trends, property type patterns | Python, pandas, Matplotlib, Seaborn |
 | 📈 Visualization | *(Coming soon)* Interactive dashboard presenting key insights — price trends, location breakdowns, market dynamics | Power BI, DAX, Power Query |
 
+<br>
+
+📊 Dataset available on Kaggle: [Bulgaria Real Estate Listings](https://www.kaggle.com/datasets/gabrielagencheva/bulgaria-real-estate-listings)
+
 ### 📊 Excel Analytics Project — Planned
 *End-to-end business analysis project in Excel — from raw data to dashboard*
 
