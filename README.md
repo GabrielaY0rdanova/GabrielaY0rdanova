@@ -85,6 +85,8 @@
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela%20Yordanova-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-yordanova-837ba2124/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Page-blueviolet?logo=github&logoColor=white)](https://gabrielay0rdanova.github.io/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-gabrielagencheva-orange?logo=kaggle&logoColor=white)](https://www.kaggle.com/gabrielagencheva)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/gabriela.yordanova)
 
 ## 🎯 Fun & Personal
 - 📚 Avid reader — always exploring new books
