@@ -48,15 +48,15 @@
 | [🔍 EDA](https://github.com/GabrielaY0rdanova/PharmaMarket_EDA) | Structured exploratory data analysis across 21,708 medicines, 240 manufacturers and pricing patterns | PostgreSQL, SQL |
 | [📈 Visualization](https://github.com/GabrielaY0rdanova/PharmaMarket_Visualization) | Interactive two-dashboard Tableau Story — market structure, pricing segments and generic competition | Tableau, PostgreSQL |
 
-### 🏠 Bulgaria Real Estate Pipeline — In Development
+### 🏠 Bulgaria Real Estate Pipeline — Complete
 *From raw scraped data to analytical dashboard — Python end-to-end*
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🏗️ Scraper](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-scraper) | Modular web scraper collecting 199,496 real estate listings across 54 Bulgarian regions — prices, locations, property types and features | Python, BeautifulSoup, requests |
-| 🧹 Cleaning | *(In progress)* Data cleaning and normalisation — deduplication, field parsing, PostgreSQL load | Python, pandas, PostgreSQL |
-| 🔍 Analysis | *(Coming soon)* Exploratory data analysis — price distributions, location trends, property type patterns | Python, pandas, Matplotlib, Seaborn |
-| 📈 Visualization | *(Coming soon)* Interactive dashboard presenting key insights — price trends, location breakdowns, market dynamics | Power BI, DAX, Power Query |
+| [🏗️ Scraper](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-scraper) | Modular web scraper collecting 199,496 listings across 54 Bulgarian regions — prices, locations, property types and features | Python, BeautifulSoup, requests |
+| [🧹 Cleaning](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-cleaning) | Deduplication, field parsing and normalisation into 8 relational tables — PostgreSQL load | Python, pandas, PostgreSQL |
+| [🔍 Analysis](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-analysis) | Price distributions, geographic patterns and feature uplift across 192,004 listings | Python, pandas, Matplotlib, Seaborn |
+| [📈 Visualization](https://github.com/GabrielaY0rdanova/bulgaria-real-estate-visualization) | Interactive 5-page Power BI dashboard — market composition, price landscape, regional breakdown and feature insights | Power BI, DAX, Power Query |
 
 <br>
 
@@ -78,7 +78,6 @@
 > 🔍 Domain TBD — project in planning stage
 
 ## 🚀 Currently Leveling Up
-- 🧹 **Data cleaning** with Python and PostgreSQL for the Bulgaria Real Estate pipeline
 - 📊 **Power BI** — deepening dashboard and reporting skills
 - 🐍 **Python** for data analysis and automation
 
